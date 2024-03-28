@@ -10,11 +10,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ayoubelsvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ayoubelsvg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayoub el gueddari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub el gueddari" height="30" width="40" /></a>
+
+
 <a href="https://codesandbox.com/ayoubel-svg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ayoubel-svg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayoubel-svg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayoubel-svg" height="30" width="40" /></a>
-<a href="https://discord.gg/Ayoub El Gueddari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ayoub El Gueddari" height="30" width="40" /></a>
+<a href="https://discord.gg/redouan_aitlhcen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ayoub El Gueddari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
