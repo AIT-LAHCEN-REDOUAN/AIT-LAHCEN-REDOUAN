@@ -1,74 +1,27 @@
-# 🚀 about
-
-
-- 🚀 [一人の境](https://blog.holic-x.com/)、[日常学习笔记](https://noob.holic-x.com/)
-
-
-
-# 🛠 Tech Stack
-
-> skills
-
-- 🔭 back-end： ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)![Spring](https://img.shields.io/badge/-Spring-green?style=flat-circle&logo=spring)![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
-
-- 👯 front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE)
-
-- :hammer_and_wrench: use-tool：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![Intelli JIDEA](https://img.shields.io/badge/-IntelliJIDEA-black?style=flat-circle&logo=IntelliJIDEA) ![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)
-
-- ⚙️ om：![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell)![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)![](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)![Gitee](https://img.shields.io/badge/-Gitee-red?style=flat-circle&logo=Gitee)
-
-- 💻 db：![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-circle&logo=Oracle)![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
-
-- 🌱 learning：![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![php](https://img.shields.io/badge/-php-green?style=flat-circle&logo=php)![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Nodejs)
-
-  
-
-> Language usage
-
-<div align="center">
-    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=holic-x&theme=gruvbox_light&layout=compact"/>
-</div>
-
-
-> Code analysis
-
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
-
-# 💻Recent Blog
-
-<!-- BLOG-POST-LIST:START -->
-- [asciinema-linux终端回放记录工具](https://blog.holic-x.com/wv-blog/post/8f2c237d.html)
-- [CDN加速](https://blog.holic-x.com/wv-blog/post/b9906fe8.html)
-- [Office开发者计划-永久白嫖Office365](https://blog.holic-x.com/wv-blog/post/d33a9143.html)
-- [网站多线部署](https://blog.holic-x.com/wv-blog/post/50b43c4a.html)
-- [hexo-butterfly-首页改造](https://blog.holic-x.com/wv-blog/post/c9f9cd5d.html)
-<!-- BLOG-POST-LIST:END -->
-
-
-
-# 🔭Actions
-
-<div align="center">
-    <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=holic-x"/>
-</div>
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
-</picture>
+<h1 align="center">Hi 👋, I'm AIT-LAHCEN REDOUAN</h1>
+<h3 align="center">full stack developer </h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=ayoubel-svg&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubel-svg" />
+ </p>
 
 
 
 
-# 🌱Social
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/ayoubelsvg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ayoubelsvg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayoub el gueddari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub el gueddari" height="30" width="40" /></a>
+<a href="https://codesandbox.com/ayoubel-svg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ayoubel-svg" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ayoubel-svg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayoubel-svg" height="30" width="40" /></a>
+<a href="https://discord.gg/Ayoub El Gueddari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ayoub El Gueddari" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=holic-x&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-![](https://stats.justsong.cn/api/github?username=holic-x)![](https://stats.justsong.cn/api/zhihu?username=holic-x)
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ayoubel-svg&show_icons=true&locale=en&layout=compact" alt="ayoubel-svg" /></p>
 
+<p style="margin-top:1em;">&nbsp;<img align="center"src="https://github-readme-stats.vercel.app/api?username=ayoubel-svg&show_icons=true&locale=en" alt="ayoubel-svg" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubel-svg&" alt="ayoubel-svg" /></p>
