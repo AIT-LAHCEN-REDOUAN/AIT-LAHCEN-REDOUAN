@@ -1,0 +1,546 @@
+{
+  "personal": {
+    "name": "AIT-LAHCEN REDOUAN",
+    "nameAr": "ايت لحسن رضوان",
+    "location": { "en": "Tangier, Morocco", "fr": "Tanger, Maroc", "ar": "طنجة، المغرب" },
+    "email": "aitlahcenredouan071@gmail.com",
+    "phone": "+212 605-93-28-40",
+    "github": "https://github.com/ait-lahcen-redouan",
+    "linkedin": "https://linkedin.com/in/ait-lahcen-redouan"
+  },
+
+  "nav": {
+    "home":         { "en": "Home",         "fr": "Accueil",      "ar": "الرئيسية" },
+    "about":        { "en": "About",         "fr": "À propos",     "ar": "عني" },
+    "services":     { "en": "Services",      "fr": "Services",     "ar": "الخدمات" },
+    "projects":     { "en": "Projects",      "fr": "Projets",      "ar": "المشاريع" },
+    "testimonials": { "en": "Testimonials",  "fr": "Témoignages",  "ar": "شهادات العملاء" },
+    "contact":      { "en": "Contact",       "fr": "Contact",      "ar": "تواصل" },
+    "letsTalk":     { "en": "Let's Talk",    "fr": "Discutons",    "ar": "لنتحدث" }
+  },
+
+  "home": {
+    "available": { "en": "Available for freelance", "fr": "Disponible en freelance", "ar": "متاح للعمل الحر" },
+    "tagline": {
+      "web": { "en": "Web Developer",     "fr": "Développeur Web",    "ar": "مطور ويب" },
+      "de":  { "en": "Data Engineer",     "fr": "Ingénieur Data",     "ar": "مهندس بيانات" },
+      "bi":  { "en": "Data Analyst",      "fr": "Analyste Data",      "ar": "محلل بيانات" },
+      "ai":  { "en": "AI Engineer",       "fr": "Ingénieur IA",       "ar": "مهندس ذكاء اصطناعي" }
+    },
+    "heroParagraph": {
+      "en": "I build robust web applications, design cloud-scale data pipelines, turn raw data into actionable dashboards, and train deep learning models. Four disciplines. One engineer.",
+      "fr": "Je développe des applications web robustes, conçois des pipelines de données à l'échelle du cloud, transforme des données brutes en tableaux de bord décisionnels et entraîne des modèles de deep learning. Quatre disciplines. Un ingénieur.",
+      "ar": "أبني تطبيقات ويب متينة، وأصمم خطوط معالجة بيانات سحابية قابلة للتوسع، وأحوّل البيانات الخام إلى لوحات تحكم داعمة للقرار، وأدرّب نماذج التعلم العميق. أربعة تخصصات. مهندس واحد."
+    },
+    "viewWork": { "en": "View My Work",        "fr": "Voir mes réalisations", "ar": "اطلع على أعمالي" },
+    "stats": {
+      "yearExp":     { "en": "Year Experience",  "fr": "An d'expérience",       "ar": "سنة خبرة" },
+      "skillDomains":{ "en": "Skill Domains",    "fr": "Domaines d'expertise",  "ar": "مجالات تخصص" },
+      "keyProjects": { "en": "Key Projects",     "fr": "Projets clés",          "ar": "مشاريع رئيسية" },
+      "forFreelance":{ "en": "For Freelance",    "fr": "Disponible",            "ar": "للعمل الحر" }
+    },
+    "servicesSection": {
+      "label":    { "en": "What I do",       "fr": "Ce que je fais", "ar": "ما أقدمه" },
+      "title":    { "en": "Services",        "fr": "Services",       "ar": "الخدمات" },
+      "subtitle": {
+        "en": "Four interlocking disciplines that cover your entire product, data, and intelligence lifecycle.",
+        "fr": "Quatre disciplines complémentaires qui couvrent l'ensemble de votre cycle produit, données et intelligence.",
+        "ar": "أربعة تخصصات متكاملة تغطي دورة حياة منتجك وبياناتك وذكائك الاصطناعي من أولها إلى آخرها."
+      },
+      "learnMore": { "en": "Learn more", "fr": "En savoir plus", "ar": "تعرّف على المزيد" },
+      "webDesc": {
+        "en": "End-to-end web applications with Laravel, Spring Boot, Next.js, React and FastAPI — from database schema to deployed product.",
+        "fr": "Applications web complètes avec Laravel, Spring Boot, Next.js, React et FastAPI — du schéma de base de données au produit mis en production.",
+        "ar": "تطبيقات ويب شاملة باستخدام Laravel وSpring Boot وNext.js وReact وFastAPI — من تصميم قاعدة البيانات حتى الإطلاق الفعلي."
+      },
+      "deDesc": {
+        "en": "Scalable batch and real-time data pipelines using Kafka, PySpark, and Azure cloud infrastructure.",
+        "fr": "Pipelines de données batch et temps réel avec Kafka, PySpark et l'infrastructure cloud Azure.",
+        "ar": "خطوط معالجة بيانات قابلة للتوسع، سواءً للمعالجة الدفعية أو في الوقت الفعلي، باستخدام Kafka وPySpark وبنية Azure السحابية."
+      },
+      "biDesc": {
+        "en": "Actionable dashboards in Power BI, advanced Excel analysis, and SQL-driven reporting for business decisions.",
+        "fr": "Tableaux de bord Power BI percutants, analyse Excel avancée et reporting SQL pour des décisions éclairées.",
+        "ar": "لوحات تحكم Power BI احترافية، وتحليل Excel متقدم، وتقارير SQL تدعم اتخاذ القرارات."
+      },
+      "aiDesc": {
+        "en": "Deep learning model design, 3D point cloud processing, edge AI deployment, and distributed inference systems.",
+        "fr": "Conception de modèles de deep learning, traitement de nuages de points 3D, déploiement IA embarqué et systèmes d'inférence distribués.",
+        "ar": "بناء نماذج التعلم العميق، ومعالجة السحب النقطية ثلاثية الأبعاد، ونشر الذكاء الاصطناعي على الأجهزة الطرفية، وأنظمة الاستنتاج الموزع."
+      }
+    },
+    "techLabel": { "en": "Technologies I work with", "fr": "Technologies que j'utilise", "ar": "التقنيات التي أعمل بها" },
+    "testimonial": {
+      "quote": {
+        "en": "Redouan successfully delivered our healthcare staffing platform on time, exceeding expectations at every stage.",
+        "fr": "Redouan a livré avec succès notre plateforme de staffing médical dans les délais impartis, dépassant les attentes à chaque étape.",
+        "ar": "نجح رضوان في تسليم منصة التوظيف لدينا في الموعد المحدد، متجاوزًا التوقعات في كل مرحلة."
+      },
+      "author": { "en": "SwapSante Team", "fr": "Équipe SwapSante", "ar": "فريق SwapSante" }
+    },
+    "cta": {
+      "title":   { "en": "Ready to build something?",         "fr": "Prêt à démarrer quelque chose ?",                       "ar": "هل أنت مستعد لبناء شيء رائع؟" },
+      "desc":    { "en": "Currently available for freelance projects. Web apps, data pipelines, BI dashboards, or AI models — let's talk.", "fr": "Disponible pour des missions freelance. Applications web, pipelines de données, tableaux de bord BI ou modèles IA — parlons-en.", "ar": "متاح الآن لمشاريع العمل الحر. تطبيقات ويب، خطوط معالجة بيانات، لوحات BI أو نماذج ذكاء اصطناعي — لنتحدث." },
+      "emailMe": { "en": "Email Me",           "fr": "M'envoyer un email", "ar": "راسلني" },
+      "browse":  { "en": "Browse Projects",    "fr": "Voir les projets",   "ar": "تصفح المشاريع" }
+    },
+    "footer": { "en": "Built for freelance.", "fr": "Pensé pour le freelance.", "ar": "مصمم للعمل الحر." }
+  },
+
+  "about": {
+    "label": { "en": "Who I am",    "fr": "Qui je suis", "ar": "من أنا" },
+    "title": { "en": "About Me",    "fr": "À propos de moi", "ar": "نبذة عني" },
+    "bio": {
+      "en": "I'm Redouan, a Web Developer and AI/Data Engineering student pursuing a Master's in Data Science at Abdelmalek Essaâdi University. With over a year of hands-on professional experience, I build production-ready web applications, design scalable data pipelines, and train deep learning models. I bridge four disciplines — web engineering, data infrastructure, business intelligence, and AI — to deliver end-to-end digital solutions for clients.",
+      "fr": "Je suis Redouan, développeur web et étudiant en Master en science des données à l'Université Abdelmalek Essaâdi. Avec plus d'un an d'expérience professionnelle, je conçois des applications web prêtes pour la production, des pipelines de données évolutifs et des modèles de deep learning. Je relie quatre disciplines — ingénierie web, infrastructure data, business intelligence et IA — pour livrer des solutions numériques complètes à mes clients.",
+      "ar": "أنا رضوان، مطور ويب وطالب ماجستير في علم البيانات بجامعة عبد المالك السعدي. بخبرة عملية تتجاوز العام، أبني تطبيقات ويب جاهزة للإنتاج، وأصمم خطوط معالجة بيانات قابلة للتوسع، وأدرّب نماذج التعلم العميق. أجمع بين أربعة تخصصات — هندسة الويب وبنية البيانات وذكاء الأعمال والذكاء الاصطناعي — لأقدم حلولاً رقمية متكاملة لعملائي."
+    },
+    "skillsTitle":      { "en": "Technical Skills",     "fr": "Compétences techniques",  "ar": "المهارات التقنية" },
+    "experienceTitle":  { "en": "Experience",            "fr": "Expérience",              "ar": "الخبرة المهنية" },
+    "educationTitle":   { "en": "Education",             "fr": "Formation",               "ar": "المسار الأكاديمي" },
+    "languagesTitle":   { "en": "Languages",             "fr": "Langues",                 "ar": "اللغات" },
+    "experienceEntries": [
+      {
+        "company": "DEVTI TECHNOLOGY LTD",
+        "logo": "/devti-logo.png",
+        "period": { "en": "Dec 2023 – Dec 2024", "fr": "Déc 2023 – Déc 2024", "ar": "ديسمبر 2023 – ديسمبر 2024" },
+        "role":   { "en": "Full Stack Developer", "fr": "Développeur Web Full Stack", "ar": "مطور ويب (Web Developer)" },
+        "type":   { "en": "Full-time · On Site",  "fr": "CDI · Présentiel",           "ar": "دوام كامل · حضوري" },
+        "bullets": {
+          "en": [
+            "Designed and developed full-stack web applications using Laravel, Next.js, and MySQL following Agile methodologies.",
+            "Implemented RESTful APIs and integrated front-end interfaces with back-end services.",
+            "Used Git/GitHub for version control and collaborated with UI/UX designers for responsive design.",
+            "Managed project tasks using Trello and participated in Agile sprints."
+          ],
+          "fr": [
+            "Conception et développement d'applications web complètes avec Laravel, Next.js et MySQL en méthodologie Agile.",
+            "Mise en place d'APIs RESTful et intégration des interfaces front-end avec les services back-end.",
+            "Utilisation de Git/GitHub pour le versioning et collaboration étroite avec les équipes UI/UX.",
+            "Pilotage des tâches projet via Trello et participation active aux sprints Agile."
+          ],
+          "ar": [
+            "تصميم وتطوير تطبيقات ويب شاملة باستخدام Laravel وNext.js وMySQL ضمن منهجية Agile.",
+            "بناء APIs RESTful ودمج الواجهات الأمامية مع خدمات الخلفية.",
+            "استخدام Git/GitHub لإدارة الإصدارات والتعاون مع فرق التصميم.",
+            "إدارة مهام المشروع عبر Trello والمشاركة الفعّالة في سبرينتات Agile."
+          ]
+        }
+      }
+    ],
+    "educationEntries": [
+      {
+        "degree": { "en": "Master's in Data Science", "fr": "Master en Science des données", "ar": "ماجستير في علم البيانات" },
+        "institution": "Abdelmalek Essaâdi University",
+        "year": "2024 – present"
+      },
+      {
+        "degree": { "en": "Professional Bachelor's in Software Engineering", "fr": "Licence Professionnelle en Génie Logiciel", "ar": "إجازة مهنية في هندسة البرمجيات" },
+        "institution": "ISTA NTIC Tangier",
+        "year": "2022 – 2023"
+      },
+      {
+        "degree": { "en": "Diploma in Web Development", "fr": "Diplôme en Développement Web", "ar": "دبلوم في تطوير الويب" },
+        "institution": "ISTA NTIC Tangier",
+        "year": "2020 – 2022"
+      }
+    ],
+    "languages": {
+      "en": ["Arabic", "English", "French"],
+      "fr": ["Arabe", "Anglais", "Français"],
+      "ar": ["العربية", "الإنجليزية", "الفرنسية"]
+    }
+  },
+
+  "services": {
+    "label":       { "en": "What I offer",   "fr": "Ce que je propose", "ar": "ما أقدمه" },
+    "title":       { "en": "Services",       "fr": "Services",          "ar": "الخدمات" },
+    "subtitle": {
+      "en": "Four integrated disciplines that cover your entire product, data, and intelligence lifecycle — from first line of code to trained model to executive dashboard.",
+      "fr": "Quatre disciplines intégrées qui couvrent l'ensemble de votre cycle produit, données et intelligence — de la première ligne de code au modèle entraîné, en passant par le tableau de bord décisionnel.",
+      "ar": "أربعة تخصصات متكاملة تغطي دورة حياة منتجك وبياناتك وذكائك الاصطناعي بالكامل — من أول سطر برمجي حتى النموذج المدرَّب ولوحة القرار التنفيذية."
+    },
+    "goodFor":     { "en": "Good for",       "fr": "Idéal pour",        "ar": "مناسب لـ" },
+    "whatYouGet":  { "en": "What you get",   "fr": "Ce que vous obtenez","ar": "ما ستحصل عليه" },
+    "technologies":{ "en": "Technologies",   "fr": "Technologies",      "ar": "التقنيات" },
+    "items": [
+      {
+        "label":    { "en": "Web Development",        "fr": "Développement Web",          "ar": "تطوير الويب" },
+        "subtitle": { "en": "Web applications, APIs & databases", "fr": "Applications web, APIs & bases de données", "ar": "تطبيقات ويب، APIs وقواعد البيانات" },
+        "description": {
+          "en": "End-to-end web application development using modern frameworks. From initial architecture to deployment, I deliver scalable, maintainable, and performant applications tailored to your business needs.",
+          "fr": "Développement d'applications web de bout en bout avec des frameworks modernes. De la conception architecturale au déploiement, je livre des applications évolutives, maintenables et performantes, taillées sur mesure pour vos besoins métier.",
+          "ar": "تطوير تطبيقات ويب متكاملة باستخدام أحدث الأطر البرمجية. من التصميم المعماري الأولي للنظام حتى الإطلاق، أقدم تطبيقات قابلة للتوسع وسهلة الصيانة وعالية الأداء، مصممة خصيصاً لمتطلبات عملك."
+        },
+        "deliverables": {
+          "en": ["Full-stack web applications (Laravel + Next.js or React)", "Spring Boot REST APIs (Java + MongoDB/PostgreSQL)", "FastAPI services (Python, async-ready)", "RESTful API design & development", "Database schema design & optimization", "Responsive, mobile-first UI with Tailwind CSS", "Third-party API integrations", "Cloud deployment (Azure, Docker)"],
+          "fr": ["Applications web complètes (Laravel + Next.js ou React)", "APIs REST Spring Boot (Java + MongoDB/PostgreSQL)", "Services FastAPI (Python, async-ready)", "Conception et développement d'APIs RESTful", "Modélisation et optimisation de schémas de base de données", "Interfaces responsives et mobile-first avec Tailwind CSS", "Intégrations d'APIs tierces", "Déploiement cloud (Azure, Docker)"],
+          "ar": ["تطبيقات ويب متكاملة (Laravel + Next.js أو React)", "REST APIs مع Spring Boot (Java + MongoDB/PostgreSQL)", "خدمات FastAPI (Python، async-ready)", "تصميم وتطوير APIs RESTful", "نمذجة وتحسين مخطط قاعدة البيانات", "واجهات متجاوبة وأولوية الجوال مع Tailwind CSS", "ربط وتكامل APIs خارجية", "النشر السحابي (Azure، Docker)"]
+        },
+        "useCases": {
+          "en": ["SaaS platforms", "Business websites & portals", "E-commerce solutions", "Internal tools & dashboards"],
+          "fr": ["Plateformes SaaS", "Sites et portails d'entreprise", "Solutions e-commerce", "Outils internes et tableaux de bord"],
+          "ar": ["منصات SaaS", "مواقع وبوابات المؤسسات", "حلول التجارة الإلكترونية", "أدوات داخلية ولوحات تحكم"]
+        }
+      },
+      {
+        "label":    { "en": "Data Engineering",          "fr": "Ingénierie des données",           "ar": "هندسة البيانات" },
+        "subtitle": { "en": "Pipelines, streaming & cloud infrastructure", "fr": "Pipelines, streaming & infrastructure cloud", "ar": "خطوط الأنابيب، البث المباشر وبنية السحابة" },
+        "description": {
+          "en": "Design and implementation of robust data pipelines that move, transform, and store data at scale. From batch ETL to real-time streaming systems, I build the infrastructure that powers data-driven businesses.",
+          "fr": "Conception et mise en œuvre de pipelines de données fiables qui déplacent, transforment et stockent les données à grande échelle. Du batch ETL au streaming temps réel, je bâtis l'infrastructure qui fait tourner les entreprises orientées data.",
+          "ar": "تصميم وبناء خطوط معالجة بيانات موثوقة تنقل البيانات وتحوّلها وتخزّنها على نطاق واسع. من معالجة الدُّفعات إلى أنظمة البث الآني، أضع البنية التحتية التي تجعل الأعمال تعمل بالبيانات."
+        },
+        "deliverables": {
+          "en": ["Batch ETL pipelines with PySpark", "Real-time streaming with Apache Kafka & Debezium (CDC)", "Cloud data lake architectures on Azure (ADLS Gen2)", "Medallion architecture (Bronze / Silver / Gold)", "Orchestration with Azure Data Factory & Databricks Jobs", "Kubernetes deployment with monitoring (Prometheus, Grafana)", "SQL Server, PostgreSQL, and MongoDB integration", "Data quality, validation & deduplication"],
+          "fr": ["Pipelines ETL batch avec PySpark", "Streaming temps réel avec Apache Kafka & Debezium (CDC)", "Architectures data lake sur Azure (ADLS Gen2)", "Architecture Medallion (Bronze / Argent / Or)", "Orchestration avec Azure Data Factory & Databricks Jobs", "Déploiement Kubernetes avec monitoring (Prometheus, Grafana)", "Intégration SQL Server, PostgreSQL et MongoDB", "Qualité des données, validation & déduplication"],
+          "ar": ["خطوط معالجة ETL دُفعية مع PySpark", "بث آني مع Apache Kafka وCDC (Change Data Capture with Debezium)", "بنى مستودعات البيانات السحابية على Azure (ADLS Gen2)", "معمارية Medallion (Bronze / Silver / Gold)", "تنسيق العمليات مع Azure Data Factory وDatabricks Jobs", "نشر Kubernetes مع مراقبة النظام (Prometheus، Grafana)", "تكامل SQL Server وPostgreSQL وMongoDB", "ضبط جودة البيانات والتحقق منها وإزالة التكرار"]
+        },
+        "useCases": {
+          "en": ["Data lakehouse migrations", "Real-time CDC pipelines", "Cloud ETL modernization", "Data platform architecture"],
+          "fr": ["Migrations vers le data lakehouse", "Pipelines CDC temps réel", "Modernisation ETL cloud", "Architecture de plateforme data"],
+          "ar": ["الانتقال إلى بنية Data Lakehouse", "خطوط معالجة بيانات CDC الآنية", "تحديث ETL على السحابة", "هندسة منصات البيانات"]
+        }
+      },
+      {
+        "label":    { "en": "Data Analysis & BI",        "fr": "Analyse de données & BI",          "ar": "تحليل البيانات وذكاء الأعمال" },
+        "subtitle": { "en": "Power BI, Excel & SQL reporting", "fr": "Power BI, Excel & reporting SQL", "ar": "Power BI، Excel والتقارير SQL" },
+        "description": {
+          "en": "Transform raw data into clear, interactive business intelligence. I design Power BI dashboards, build Excel models, and write SQL reports that help stakeholders make faster, better-informed decisions.",
+          "fr": "Donnez du sens à vos données en les transformant en business intelligence claire et interactive. Je conçois des tableaux de bord Power BI, des modèles Excel avancés et des rapports SQL qui aident les décideurs à agir vite et juste.",
+          "ar": "حوّل بياناتك الخام إلى رؤى واضحة وقابلة للتنفيذ. أصمم لوحات تحكم Power BI وأبني نماذج Excel متقدمة وأكتب تقارير SQL تمنح صانعي القرار ما يحتاجونه لاتخاذ قرارات أسرع وأكثر دقة."
+        },
+        "deliverables": {
+          "en": ["Interactive Power BI dashboards & reports", "Advanced Excel data models & automation", "SQL-based reporting and KPI tracking", "Data cleaning & transformation", "Azure Synapse Analytics integration", "DAX measures and calculated columns in Power BI", "Scheduled data refresh pipelines", "Executive summary reports & presentations"],
+          "fr": ["Tableaux de bord et rapports Power BI interactifs", "Modèles de données Excel avancés & automatisation", "Reporting SQL et suivi des KPIs", "Nettoyage et transformation des données", "Intégration Azure Synapse Analytics", "Mesures DAX et colonnes calculées dans Power BI", "Pipelines de rafraîchissement automatique des données", "Rapports de synthèse exécutifs & présentations"],
+          "ar": ["لوحات تحكم وتقارير Power BI تفاعلية", "نماذج بيانات Excel متقدمة وأتمتة", "تقارير SQL وتتبع مؤشرات الأداء KPIs", "تنظيف البيانات وتحويلها", "التكامل مع Azure Synapse Analytics", "مقاييس DAX وأعمدة محسوبة في Power BI", "خطوط تحديث البيانات المجدولة", "تقارير تنفيذية ملخّصة وعروض تقديمية"]
+        },
+        "useCases": {
+          "en": ["Sales & revenue dashboards", "Operational KPI reporting", "Ad hoc data analysis", "Data-driven presentations"],
+          "fr": ["Tableaux de bord ventes & revenus", "Reporting KPI opérationnel", "Analyses de données ad hoc", "Présentations orientées données"],
+          "ar": ["لوحات تحكم المبيعات والإيرادات", "تقارير مؤشرات الأداء التشغيلية", "تحليل البيانات الفوري", "عروض تقديمية مدعومة بالبيانات"]
+        }
+      },
+      {
+        "label":    { "en": "AI Engineering",            "fr": "Ingénierie IA",                    "ar": "هندسة الذكاء الاصطناعي" },
+        "subtitle": { "en": "Deep learning, 3D vision & edge deployment", "fr": "Deep learning, vision 3D & déploiement embarqué", "ar": "التعلم العميق، الرؤية ثلاثية الأبعاد والنشر الطرفي" },
+        "description": {
+          "en": "Design and deployment of machine learning and deep learning systems that solve real-world classification, prediction, and automation problems. From research-grade model training to production edge inference pipelines.",
+          "fr": "Conception et déploiement de systèmes de machine learning et de deep learning qui résolvent des problèmes concrets : classification, prédiction, automatisation. De l'entraînement de modèles de recherche aux pipelines d'inférence en production sur des dispositifs embarqués.",
+          "ar": "تصميم ونشر أنظمة تعلم آلي وتعلم عميق تحل مشكلات التصنيف والتنبؤ والأتمتة في الواقع العملي. من تدريب النماذج البحثية وصولاً إلى خطوط الاستنتاج على الأجهزة الطرفية في بيئة الإنتاج."
+        },
+        "deliverables": {
+          "en": ["Deep learning model design & training (CNNs, PointNet, DGCNN)", "3D point cloud analysis and processing with Open3D", "Multi-view feature extraction & data fusion", "Model fine-tuning and performance optimization", "Model compression: quantization & pruning for edge", "Edge AI deployment with Docker & Flask APIs", "Distributed inference with weighted voting aggregation", "Evaluation: accuracy, F1-score, confusion matrices & precision-recall"],
+          "fr": ["Conception et entraînement de modèles deep learning (CNNs, PointNet, DGCNN)", "Analyse et traitement de nuages de points 3D avec Open3D", "Extraction de caractéristiques multi-vues & fusion de données", "Fine-tuning et optimisation des performances des modèles", "Compression de modèles : quantification & élagage pour l'embarqué", "Déploiement IA embarqué avec Docker & APIs Flask", "Inférence distribuée avec agrégation par vote pondéré", "Évaluation : accuracy, F1-score, matrices de confusion & courbes précision-rappel"],
+          "ar": ["تصميم وتدريب نماذج التعلم العميق (CNNs، PointNet، DGCNN)", "تحليل ومعالجة السحب النقطية ثلاثية الأبعاد باستخدام Open3D", "استخراج الميزات متعددة الزوايا ودمج مصادر البيانات", "الضبط الدقيق للنماذج وتحسين أدائها", "ضغط النماذج: الكمّية والتشذيب للنشر على الأجهزة الطرفية", "نشر الذكاء الاصطناعي الطرفي مع Docker وAPIs Flask", "الاستنتاج الموزع مع تجميع التنبؤات بالتصويت الموزون", "تقييم الأداء: الدقة، F1-score، مصفوفات الالتباس ومنحنيات الدقة-الاستدعاء"]
+        },
+        "useCases": {
+          "en": ["3D point cloud & LiDAR classification", "Medical imaging & diagnostics", "Edge AI inference systems", "Research ML prototyping & benchmarking"],
+          "fr": ["Classification de nuages de points 3D & LiDAR", "Imagerie médicale & aide au diagnostic", "Systèmes d'inférence IA embarqués", "Prototypage et benchmarking ML de recherche"],
+          "ar": ["تصنيف السحب النقطية ثلاثية الأبعاد وبيانات LiDAR", "التصوير الطبي وتحليل التشخيص", "أنظمة الاستنتاج الذكي على الأجهزة الطرفية", "النمذجة الأولية والمقارنات المرجعية في أبحاث التعلم الآلي"]
+        }
+      }
+    ],
+    "cta": {
+      "title":   { "en": "Interested in working together?",  "fr": "Intéressé par une collaboration ?",    "ar": "هل تفكر في التعاون معي؟" },
+      "desc":    { "en": "Tell me about your project and I'll get back to you within 24 hours.", "fr": "Parlez-moi de votre projet et je vous réponds sous 24 heures.", "ar": "أخبرني عن مشروعك وسأعود إليك خلال 24 ساعة." },
+      "start":   { "en": "Start a Project",    "fr": "Démarrer un projet",    "ar": "ابدأ مشروعك" },
+      "seeWork": { "en": "See My Work",        "fr": "Voir mes réalisations", "ar": "اطلع على أعمالي" }
+    }
+  },
+
+  "projects": {
+    "label":    { "en": "What I've built",   "fr": "Ce que j'ai réalisé",  "ar": "ما بنيته" },
+    "title":    { "en": "Projects",          "fr": "Projets",              "ar": "المشاريع" },
+    "subtitle": {
+      "en": "A selection of data engineering systems, web applications, and AI projects I've designed and shipped.",
+      "fr": "Une sélection de systèmes data, d'applications web et de projets IA que j'ai conçus et livrés.",
+      "ar": "مختارات من أنظمة هندسة البيانات وتطبيقات الويب ومشاريع الذكاء الاصطناعي التي صممتها وأطلقتها."
+    },
+    "categories": {
+      "all":          { "en": "All",              "fr": "Tous",                 "ar": "الكل" },
+      "webDev":       { "en": "Web Dev",          "fr": "Web Dev",              "ar": "تطوير ويب" },
+      "dataEng":      { "en": "Data Engineering", "fr": "Data Engineering",     "ar": "هندسة البيانات" },
+      "dataAnalysis": { "en": "Data Analysis",    "fr": "Analyse de données",   "ar": "تحليل البيانات" },
+      "aiMl":         { "en": "AI / ML",          "fr": "IA / ML",              "ar": "ذكاء اصطناعي" }
+    },
+    "live": { "en": "Live", "fr": "En ligne", "ar": "مباشر" },
+    "cta": {
+      "title":    { "en": "Have a project in mind?",                         "fr": "Vous avez un projet en tête ?",                       "ar": "هل لديك مشروع تريد تنفيذه؟" },
+      "desc":     { "en": "I'm open to new freelance work. Let's discuss what you need.", "fr": "Je suis disponible pour de nouvelles missions freelance. Parlons de vos besoins.", "ar": "أرحب دائماً بمشاريع العمل الحر. تواصل معي ولنناقش ما تحتاجه." }
+    },
+    "items": [
+      {
+        "title": "SwapSante — Healthcare Staffing Platform",
+        "category": "webDev",
+        "icon": "SiLaravel",
+        "iconColor": "text-[#FF2D20]",
+        "accentColor": "text-sky-400",
+        "borderColor": "border-sky-400/30",
+        "bgColor": "bg-sky-400/5",
+        "liveUrl": "https://swapsante.online/",
+        "tech": ["Laravel", "Next.js", "Tailwind CSS", "MySQL", "Docker", "Azure", "DocuSeal"],
+        "description": {
+          "en": "Healthcare staffing platform connecting radiology professionals across France. Contract management, mobile access, and analytics dashboards for workforce optimization.",
+          "fr": "Plateforme de staffing médical pour les professionnels de radiologie en France. Gestion des contrats, accès mobile et tableaux de bord analytiques pour l'optimisation des effectifs.",
+          "ar": "منصة توظيف طبي لأخصائيي الأشعة في فرنسا — إدارة عقود، وصول موبايل، ولوحات تحليلية لتحسين إدارة الكوادر البشرية."
+        },
+        "metrics": [
+          { "value": "€50K+", "label": { "en": "Annual revenue facilitated",  "fr": "Chiffre d'affaires annuel généré",   "ar": "إيرادات سنوية مُحقَّقة" } },
+          { "value": "40%",   "label": { "en": "Staffing cost reduction",      "fr": "Réduction des coûts de staffing",    "ar": "تخفيض تكاليف التوظيف" } },
+          { "value": "2×",    "label": { "en": "Faster time-to-hire",          "fr": "Plus rapide à l'embauche",           "ar": "أسرع في التوظيف" } }
+        ]
+      },
+      {
+        "title": "Distributed Data Processing Pipeline",
+        "category": "dataEng",
+        "icon": "SiApachespark",
+        "iconColor": "text-[#E25A1C]",
+        "accentColor": "text-primary",
+        "borderColor": "border-primary/30",
+        "bgColor": "bg-primary/5",
+        "liveUrl": null,
+        "tech": ["Python", "PySpark", "Spark SQL"],
+        "description": {
+          "en": "Scalable PySpark ETL pipeline processing multi-GB datasets with cleaning, validation, and deduplication — partitioned and cached for peak performance.",
+          "fr": "Pipeline ETL PySpark pour traiter des jeux de données CSV/JSON de plusieurs Go — nettoyage, validation et déduplication avec partitionnement et cache optimisés.",
+          "ar": "خط ETL بـ PySpark لمعالجة ملفات CSV وJSON الضخمة — تنظيف وتحقق وإزالة تكرار مع تقسيم وتخزين مؤقت محسَّنَين."
+        },
+        "metrics": [
+          { "value": "70%",   "label": { "en": "Operational cost saved",       "fr": "Coûts opérationnels économisés",      "ar": "توفير في التكاليف التشغيلية" } },
+          { "value": "3×",    "label": { "en": "Team productivity gain",        "fr": "Gain de productivité équipe",         "ar": "زيادة إنتاجية الفريق" } },
+          { "value": "€50K+", "label": { "en": "Annual infra savings",          "fr": "Économies d'infra annuelles",         "ar": "توفير سنوي في البنية التحتية" } }
+        ]
+      },
+      {
+        "title": "Real-Time Distributed Data Synchronization Platform",
+        "category": "dataEng",
+        "icon": "SiApachekafka",
+        "iconColor": "text-foreground",
+        "accentColor": "text-primary",
+        "borderColor": "border-primary/30",
+        "bgColor": "bg-primary/5",
+        "liveUrl": null,
+        "tech": ["Kafka", "Debezium", "PostgreSQL", "Kubernetes", "Docker", "Prometheus", "Grafana"],
+        "description": {
+          "en": "Real-time sync pipeline using Kafka & Debezium CDC — WAL-based change capture on Kubernetes with full Prometheus & Grafana observability.",
+          "fr": "Synchronisation temps réel via Kafka & Debezium CDC — capture de changements WAL sur Kubernetes avec observabilité Prometheus & Grafana.",
+          "ar": "مزامنة بيانات آنية عبر Kafka وDebezium CDC — التقاط تغييرات WAL على Kubernetes مع رصد شامل بـ Prometheus وGrafana."
+        },
+        "metrics": [
+          { "value": "99.99%","label": { "en": "System availability",           "fr": "Disponibilité système",               "ar": "توافر النظام" } },
+          { "value": "60%",   "label": { "en": "Ops overhead eliminated",        "fr": "Surcharge opérationnelle éliminée",   "ar": "تقليص العبء التشغيلي" } },
+          { "value": "4×",    "label": { "en": "Faster data-driven decisions",   "fr": "Décisions plus rapides",              "ar": "قرارات أعمال أسرع" } }
+        ]
+      },
+      {
+        "title": "Azure Data Engineering Pipeline",
+        "category": "dataEng",
+        "icon": "SiDatabricks",
+        "iconColor": "text-[#FF3621]",
+        "accentColor": "text-primary",
+        "borderColor": "border-primary/30",
+        "bgColor": "bg-primary/5",
+        "liveUrl": null,
+        "tech": ["Azure Data Factory", "Databricks", "PySpark", "ADLS Gen2", "Synapse Analytics", "Power BI"],
+        "description": {
+          "en": "End-to-end Azure pipeline with Medallion architecture (Bronze/Silver/Gold) — ingesting from SQL Server and APIs into Power BI dashboards via Databricks and Synapse.",
+          "fr": "Pipeline Azure de bout en bout avec architecture Medallion (Bronze/Argent/Or) — ingestion SQL Server et APIs vers des tableaux de bord Power BI via Databricks et Synapse.",
+          "ar": "خط بيانات Azure متكامل بمعمارية Medallion (برونزي/فضي/ذهبي) — استيعاب من SQL Server إلى لوحات Power BI عبر Databricks وSynapse."
+        },
+        "metrics": [
+          { "value": "€80K+", "label": { "en": "Annual labor cost saved",       "fr": "Coût de main-d'œuvre économisé/an",  "ar": "توفير سنوي في تكاليف الموظفين" } },
+          { "value": "3×",    "label": { "en": "Faster executive reporting",     "fr": "Reporting dirigeants accéléré",       "ar": "تقارير تنفيذية أسرع" } },
+          { "value": "30%",   "label": { "en": "Reporting costs eliminated",     "fr": "Coûts de reporting éliminés",         "ar": "تخفيض تكاليف التقارير" } }
+        ]
+      },
+      {
+        "title": "Distributed Edge AI Inference System",
+        "category": "aiMl",
+        "icon": "Cpu",
+        "iconColor": "text-muted-foreground",
+        "accentColor": "text-emerald-400",
+        "borderColor": "border-emerald-400/30",
+        "bgColor": "bg-emerald-400/5",
+        "liveUrl": null,
+        "tech": ["Python", "PyTorch", "Docker", "Flask", "Scikit-learn", "MQTT", "NumPy", "Pandas"],
+        "description": {
+          "en": "MRI classifier using ResNet18 (98.7% accuracy) — quantized, pruned, and deployed across distributed edge nodes with weighted voting aggregation.",
+          "fr": "Classificateur IRM avec ResNet18 (98,7% de précision) — quantifié, élagué et déployé sur des nœuds edge distribués avec agrégation par vote pondéré.",
+          "ar": "مصنّف الرنين المغناطيسي بـ ResNet18 بدقة 98.7% — نموذج مُخفَّف الحجم منشور على عقد طرفية موزعة مع تجميع بالتصويت الموزون."
+        },
+        "metrics": [
+          { "value": "5×",    "label": { "en": "Cloud cost reduction",          "fr": "Réduction des coûts cloud",           "ar": "تخفيض تكاليف السحابة" } },
+          { "value": "98.7%", "label": { "en": "Diagnostic accuracy",           "fr": "Précision diagnostique",              "ar": "دقة التشخيص الطبي" } },
+          { "value": "60%",   "label": { "en": "Faster diagnosis delivery",     "fr": "Diagnostic plus rapide",              "ar": "تشخيص أسرع" } }
+        ]
+      },
+      {
+        "title": "Tree Species Classification with 3D Point Cloud Data",
+        "category": "aiMl",
+        "icon": "SiPytorch",
+        "iconColor": "text-[#EE4C2C]",
+        "accentColor": "text-orange-400",
+        "borderColor": "border-orange-400/30",
+        "bgColor": "bg-orange-400/5",
+        "liveUrl": null,
+        "tech": ["Python", "PyTorch", "Open3D", "PointNet", "DGCNN", "NumPy", "Scikit-learn"],
+        "description": {
+          "en": "3D point cloud classifier for 7 tree species using PointNet, DGCNN, and multi-view CNNs — 88% accuracy and 0.86 F1-score across 691 samples.",
+          "fr": "Classifieur de nuages de points 3D pour 7 espèces d'arbres avec PointNet, DGCNN et CNNs multi-vues — 88% de précision et F1-score de 0,86 sur 691 échantillons.",
+          "ar": "مصنّف سُحب نقطية ثلاثية الأبعاد لـ 7 أنواع من الأشجار بـ PointNet وDGCNN وCNNs — دقة 88% وF1-score بقيمة 0.86 على 691 عينة."
+        },
+        "metrics": [
+          { "value": "3×",    "label": { "en": "Faster than manual survey",     "fr": "Plus rapide qu'un relevé manuel",     "ar": "أسرع من المسح اليدوي" } },
+          { "value": "88%",   "label": { "en": "Species accuracy",              "fr": "Précision par espèce",                "ar": "دقة تصنيف الأنواع" } },
+          { "value": "15%",   "label": { "en": "Better than industry baseline", "fr": "Mieux que la baseline du secteur",     "ar": "أفضل من المعيار الصناعي" } }
+        ]
+      },
+      {
+        "title": "Sales Data Analysis with Power BI",
+        "category": "dataAnalysis",
+        "icon": "PieChart",
+        "iconColor": "text-[#F2C811]",
+        "accentColor": "text-emerald-400",
+        "borderColor": "border-emerald-400/30",
+        "bgColor": "bg-emerald-400/5",
+        "liveUrl": null,
+        "tech": ["Power BI", "DAX", "SQL Server", "Excel", "Star Schema", "ETL"],
+        "description": {
+          "en": "Analyzed 10K+ sales records to build 3 interactive Power BI dashboards with 20+ KPIs, DAX measures, and star-schema models — cutting reporting time by 30%.",
+          "fr": "10 000+ enregistrements de ventes analysés pour 3 tableaux de bord Power BI interactifs couvrant 20+ KPIs avec mesures DAX et modèles en étoile — reporting réduit de 30%.",
+          "ar": "تحليل أكثر من 10,000 سجل مبيعات لبناء 3 لوحات Power BI تفاعلية بأكثر من 20 مؤشر KPI ومقاييس DAX — تقليص وقت التقارير بنسبة 30%."
+        },
+        "metrics": [
+          { "value": "85%",   "label": { "en": "Faster report delivery",        "fr": "Rapports livrés plus vite",           "ar": "تسريع تسليم التقارير" } },
+          { "value": "30%",   "label": { "en": "Reporting cost eliminated",      "fr": "Coût de reporting éliminé",           "ar": "تخفيض تكاليف التقارير" } },
+          { "value": "€20K+", "label": { "en": "Annual analyst time saved",      "fr": "Temps analyste économisé/an",         "ar": "توفير سنوي في وقت المحللين" } }
+        ]
+      },
+      {
+        "title": "Hospital Appointment Manager — GRH",
+        "category": "webDev",
+        "icon": "SiSpring",
+        "iconColor": "text-[#6DB33F]",
+        "accentColor": "text-sky-400",
+        "borderColor": "border-sky-400/30",
+        "bgColor": "bg-sky-400/5",
+        "liveUrl": null,
+        "tech": ["Java", "Spring Boot", "Next.js", "MongoDB", "REST API", "Maven"],
+        "description": {
+          "en": "Full-stack appointment system for hospitals — patients book, modify, and cancel doctor visits with real-time availability checks and duplicate-booking prevention.",
+          "fr": "Système de gestion des rendez-vous hospitaliers — réservation, modification et annulation avec vérification des disponibilités en temps réel et prévention des doublons.",
+          "ar": "نظام متكامل لإدارة المواعيد الطبية — حجز وتعديل وإلغاء مع التحقق الآني من الجداول ومنع تعارض الحجوزات تلقائياً."
+        },
+        "metrics": [
+          { "value": "100%",  "label": { "en": "Booking accuracy",             "fr": "Précision des réservations",          "ar": "دقة الحجوزات" } },
+          { "value": "60%",   "label": { "en": "Fewer scheduling conflicts",    "fr": "Moins de conflits de planning",       "ar": "تقليص تعارضات المواعيد" } },
+          { "value": "3×",    "label": { "en": "More appointments managed",     "fr": "Plus de RDV gérés",                   "ar": "مواعيد أكثر تُدار يومياً" } }
+        ]
+      },
+      {
+        "title": "Food Safety & Hygiene Management System",
+        "category": "webDev",
+        "icon": "SiNextdotjs",
+        "iconColor": "text-foreground",
+        "accentColor": "text-emerald-400",
+        "borderColor": "border-emerald-400/30",
+        "bgColor": "bg-emerald-400/5",
+        "liveUrl": null,
+        "tech": ["Laravel", "Next.js", "MySQL", "shadcn/ui", "Docker", "Azure"],
+        "description": {
+          "en": "Web and mobile app for food businesses to track cold storage temperatures, manage cleaning schedules, record deliveries, and generate compliance reports.",
+          "fr": "Application web et mobile pour les pros de l'alimentaire : suivi des températures frigorifiques, plannings de nettoyage, enregistrement des livraisons et rapports de conformité.",
+          "ar": "تطبيق ويب وموبايل لقطاع الأغذية: مراقبة درجات التخزين البارد، جدولة التنظيف، تسجيل التسليمات، وإنتاج تقارير الامتثال."
+        },
+        "metrics": [
+          { "value": "100%",  "label": { "en": "Audit compliance rate",         "fr": "Taux de conformité aux audits",       "ar": "معدل اجتياز التدقيق" } },
+          { "value": "60%",   "label": { "en": "Penalty risk reduction",        "fr": "Risque de pénalités réduit",          "ar": "تقليص مخاطر الغرامات" } },
+          { "value": "3×",    "label": { "en": "Faster compliance reports",     "fr": "Rapports de conformité plus rapides", "ar": "تقارير امتثال أسرع" } }
+        ]
+      }
+    ]
+  },
+
+  "contact": {
+    "badge":   { "en": "Available now · Accepting projects", "fr": "Disponible · En acceptation de projets", "ar": "متاح الآن · أقبل المشاريع" },
+    "title1":  { "en": "Let's Build Something",             "fr": "Construisons quelque chose",             "ar": "لنبني شيئاً" },
+    "title2":  { "en": "Great Together",                    "fr": "d'Exceptionnel Ensemble",                "ar": "يستحق الانتظار" },
+    "heroParagraph": {
+      "en": "Got a project idea? A data challenge? A dashboard that isn't telling the right story? Tell me about it — I'll get back to you within 24 hours with a clear plan.",
+      "fr": "Une idée de projet ? Un défi data ? Un tableau de bord qui ne raconte pas la bonne histoire ? Décrivez-moi votre situation — je vous réponds dans les 24 heures avec une approche concrète.",
+      "ar": "هل لديك فكرة مشروع؟ تحدٍّ في البيانات؟ لوحة تحكم لا تعكس الواقع الحقيقي؟ شاركني تفاصيلك — سأرد عليك خلال 24 ساعة بخطة عمل واضحة."
+    },
+    "statsLabels": {
+      "response":     { "en": "Response time",  "fr": "Délai de réponse", "ar": "وقت الرد" },
+      "commitment":   { "en": "Commitment",     "fr": "Engagement",       "ar": "الالتزام" },
+      "consultation": { "en": "Consultation",   "fr": "Consultation",     "ar": "استشارة" }
+    },
+    "whyWork": { "en": "Why work with me", "fr": "Pourquoi travailler avec moi", "ar": "لماذا تعمل معي" },
+    "valueProps": [
+      {
+        "title": { "en": "One engineer, four disciplines", "fr": "Un ingénieur, quatre disciplines", "ar": "مهندس واحد، أربعة تخصصات" },
+        "desc":  { "en": "Web app, data pipeline, BI dashboard, and AI model — no handoffs, no extra vendors.", "fr": "Application web, pipeline data, tableau de bord BI et modèle IA — sans intermédiaires ni prestataires supplémentaires.", "ar": "تطبيق ويب وخط أنابيب بيانات ولوحة BI ونموذج ذكاء اصطناعي — كل شيء تحت سقف واحد دون وسطاء." }
+      },
+      {
+        "title": { "en": "Clean, documented code", "fr": "Code propre et documenté", "ar": "كود نظيف وموثّق" },
+        "desc":  { "en": "Every deliverable is production-ready, well-commented, and easy to maintain.", "fr": "Chaque livrable est prêt pour la production, bien structuré et facile à faire évoluer.", "ar": "كل ما أسلّمه جاهز للإنتاج، منظّم ومكتوب بأسلوب يسهّل الصيانة والتطوير." }
+      },
+      {
+        "title": { "en": "Clear communication", "fr": "Communication fluide", "ar": "تواصل واضح وشفاف" },
+        "desc":  { "en": "Regular updates, transparent timelines, and zero surprises from start to finish.", "fr": "Points réguliers, délais tenus et zéro surprise, du cadrage jusqu'à la livraison.", "ar": "تحديثات منتظمة، مواعيد محددة وصفر مفاجآت، من بداية المشروع حتى تسليمه." }
+      }
+    ],
+    "reachMe": { "en": "Reach me at", "fr": "Me contacter", "ar": "تواصل معي على" },
+    "contactLabels": {
+      "email":    { "en": "Email",            "fr": "Email",                   "ar": "البريد الإلكتروني" },
+      "phone":    { "en": "Phone / WhatsApp", "fr": "Téléphone / WhatsApp",    "ar": "هاتف / واتساب" },
+      "location": { "en": "Location",         "fr": "Localisation",            "ar": "الموقع" }
+    },
+    "findOnline": { "en": "Find me online",    "fr": "Me retrouver en ligne",    "ar": "تجدني على الإنترنت" },
+    "iCanHelp":   { "en": "I can help you with", "fr": "Je peux vous aider avec", "ar": "يمكنني مساعدتك في" },
+    "serviceChips": {
+      "en": ["Web Applications & Portals", "Data Engineering & Pipelines", "Power BI Dashboards", "Excel Analysis & Automation", "API Development", "Cloud Data Architecture", "ETL / Data Transformation", "SQL Reporting & KPIs", "Deep Learning Models", "3D Point Cloud Analysis", "Edge AI Deployment", "ML Research & Prototyping"],
+      "fr": ["Applications Web & Portails", "Ingénierie des données & Pipelines", "Tableaux de bord Power BI", "Analyse Excel & Automatisation", "Développement d'APIs", "Architecture Data Cloud", "ETL / Transformation de données", "Reporting SQL & KPIs", "Modèles de Deep Learning", "Analyse de nuages de points 3D", "Déploiement IA embarqué", "Recherche & Prototypage ML"],
+      "ar": ["تطبيقات ويب وبوابات إلكترونية", "هندسة البيانات وخطوط الأنابيب", "لوحات Power BI", "تحليل Excel والأتمتة", "تطوير APIs", "هندسة البيانات السحابية", "ETL وتحويل البيانات", "تقارير SQL ومؤشرات الأداء", "نماذج التعلم العميق", "تحليل السحب النقطية ثلاثية الأبعاد", "نشر الذكاء الاصطناعي الطرفي", "البحث والنمذجة الأولية في ML"]
+    },
+    "form": {
+      "title":              { "en": "Start a Conversation",      "fr": "Démarrer une conversation",    "ar": "ابدأ المحادثة" },
+      "desc":               { "en": "Describe your project and I'll come back with ideas and a quote.", "fr": "Décrivez votre projet et je vous reviens avec des idées et un devis.", "ar": "أخبرني عن مشروعك وسأعود إليك بأفكار وعرض سعر." },
+      "nameLabel":          { "en": "Your Name",       "fr": "Votre nom",              "ar": "اسمك الكامل" },
+      "emailLabel":         { "en": "Your Email",      "fr": "Votre email",            "ar": "بريدك الإلكتروني" },
+      "subjectLabel":       { "en": "What do you need?", "fr": "De quoi avez-vous besoin ?", "ar": "ماذا تحتاج؟" },
+      "messageLabel":       { "en": "Tell me more",    "fr": "Dites-m'en plus",        "ar": "أخبرني بالتفاصيل" },
+      "namePlaceholder":    { "en": "Firstname Lastname", "fr": "Prénom Nom",          "ar": "الاسم الأول والأخير" },
+      "emailPlaceholder":   { "en": "your@email.com",  "fr": "votre@email.com",        "ar": "your@email.com" },
+      "subjectPlaceholder": { "en": "e.g. Power BI dashboard / Web app / Data pipeline", "fr": "ex. Tableau de bord Power BI / Application web / Pipeline data", "ar": "مثال: لوحة Power BI / تطبيق ويب / خط أنابيب بيانات" },
+      "messagePlaceholder": { "en": "Describe your project, your goals, your timeline, and your budget. The more detail, the better my proposal.", "fr": "Décrivez votre projet, vos objectifs, votre calendrier et votre budget. Plus vous êtes précis, plus ma proposition sera pertinente.", "ar": "صف مشروعك وأهدافك والجدول الزمني والميزانية المتاحة. كلما كانت التفاصيل أوضح، كان عرضي أكثر دقة." },
+      "submit":             { "en": "Send My Message", "fr": "Envoyer mon message",    "ar": "أرسل رسالتك" }
+    },
+    "closingQuote": {
+      "en": "I treat every project as if it were my own — your success is my portfolio.",
+      "fr": "Je traite chaque projet comme s'il était le mien — votre réussite, c'est ma vitrine.",
+      "ar": "أتعامل مع كل مشروع كما لو كان مشروعي الخاص — نجاحك هو ما يُعرّفني."
+    }
+  },
+
+  "testimonials": [
+    {
+      "quote": {
+        "en": "Redouan successfully delivered our healthcare staffing platform on time, exceeding expectations at every stage. The contract management system, mobile application, and analytics dashboard he developed have become essential components of SwapSante's daily operations, driving efficiency, reliability, and data-driven decision-making across the organization.",
+        "fr": "Redouan a livré avec succès notre plateforme de staffing médical dans les délais impartis, dépassant les attentes à chaque étape. Le système de gestion des contrats, l'application mobile et le tableau de bord analytique qu'il a développés sont devenus des composants essentiels des opérations quotidiennes de SwapSante, favorisant l'efficacité, la fiabilité et une prise de décision basée sur les données à l'échelle de l'organisation.",
+        "ar": "نجح رضوان في تسليم منصة التوظيف الخاصة بنا في مجال الرعاية الصحية في الموعد المحدد، متجاوزًا التوقعات في كل مرحلة. وقد أصبح نظام إدارة العقود، وتطبيق الهاتف المحمول، ولوحة تحليلات البيانات التي طورها، مكونات أساسية في العمليات اليومية لشركة سوابسانت، مما يعزز الكفاءة والموثوقية واتخاذ القرارات القائمة على البيانات في جميع أنحاء المؤسسة."
+      },
+      "author": "SwapSante Team",
+      "role": {
+        "en": "Healthcare Staffing Platform · France",
+        "fr": "Plateforme de staffing médical · France",
+        "ar": "منصة توظيف طبي · فرنسا"
+      },
+      "website": "https://swapsante.online/",
+      "websiteLabel": "swapsante.online",
+      "logo": "/swapsante-logo.png",
+      "stars": 5
+    }
+  ]
+}
